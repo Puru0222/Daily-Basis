@@ -1,0 +1,8 @@
+#includde<iostream>
+using namespace std;
+
+int main () {
+  //Printing full name 
+  string p = "Puru0222";
+  return p;
+  }
